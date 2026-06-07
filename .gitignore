@@ -1,0 +1,10 @@
+.env
+*.pem
+*.key
+__pycache__/
+*.pyc
+.venv/
+venv/
+kalshi_btc_log.csv
+backtest_results.csv
+.streamlit/
